@@ -58,10 +58,19 @@ You can use *k-cross-validation* training by adding the parameter *--fold-count 
 
 Visit the original [DeLFT](https://github.com/kermitt2/delft) repo please to find more details about exection, commands and more.
 
+**Paper to reference when using the model**: *Sid Ali Mahmoudi et al. (2022)*.
 
-**Paper to reference when using their dataset**:
+```
+@inproceedings{mahmoudi2022ner,
+  title={NER sur d{\'e}cisions judiciaires fran{\c{c}}aises: CamemBERT Judiciaire ou m{\'e}thode ensembliste?},
+  author={Mahmoudi, Sid Ali and Condevaux, Charles and Mathis, Bruno and Zambrano, Guillaume and Mussard, St{\'e}phane},
+  booktitle={Extraction et Gestion des connaissances EGC'2022},
+  year={2022}
+}
+```
 
-*Gildas Tagny Ngompé et al. (2019)* (the dataset annotators):
+
+**Paper to reference when using their dataset**: *Gildas Tagny Ngompé et al. (2019)* (the dataset annotators).
 
 
 ```
